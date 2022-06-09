@@ -1,0 +1,24 @@
+[2022-03-20 19:42:42,171][tacto.renderer][INFO] - Loading configuration from: /home/manith/Documents/Latest_Tacto/tacto_venv/lib/python3.8/site-packages/tacto/config_digit.yml
+[2022-03-20 19:42:42,514][__main__][INFO] - Initializing world
+[2022-03-20 19:42:42,651][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2022-03-20 19:42:45,615][trimesh][WARNING] - unable to load materials from: cube.mtl
+[2022-03-20 19:42:45,654][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[0], low: -3.1415927410125732, high: 3.1415927410125732, init_value: 6.461632361565157e-06
+[2022-03-20 19:42:45,661][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[1], low: -3.1415927410125732, high: 3.1415927410125732, init_value: 0.9999999996434974
+[2022-03-20 19:42:45,684][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[2], low: -3.1415927410125732, high: 3.1415927410125732, init_value: -1.5350752508021475e-05
+[2022-03-20 19:42:45,690][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[3], low: -3.1415927410125732, high: 3.1415927410125732, init_value: -2.0871196422302177e-05
+[2022-03-20 19:42:45,704][pybulletX.gui.control_panel][INFO] - name: end_effector.position[0], low: 0.30000001192092896, high: 0.8500000238418579, init_value: 0.5000109182033144
+[2022-03-20 19:42:45,712][pybulletX.gui.control_panel][INFO] - name: end_effector.position[1], low: -0.8500000238418579, high: 0.8500000238418579, init_value: 6.405418380606345e-05
+[2022-03-20 19:42:45,751][pybulletX.gui.control_panel][INFO] - name: end_effector.position[2], low: 0.0, high: 0.800000011920929, init_value: 0.215150688153249
+[2022-03-20 19:42:45,759][pybulletX.gui.control_panel][INFO] - name: gripper_width, low: 0.029999999329447746, high: 0.10999999940395355, init_value: 0.11
+[2022-03-20 20:50:42,927][tacto.renderer][INFO] - Loading configuration from: /home/manith/Documents/Latest_Tacto/tacto_venv/lib/python3.8/site-packages/tacto/config_digit.yml
+[2022-03-20 20:50:43,152][__main__][INFO] - Initializing world
+[2022-03-20 20:50:43,250][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2022-03-20 20:50:44,898][trimesh][WARNING] - unable to load materials from: cube.mtl
+[2022-03-20 20:50:44,992][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[0], low: -3.1415927410125732, high: 3.1415927410125732, init_value: 6.461632361565157e-06
+[2022-03-20 20:50:45,033][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[1], low: -3.1415927410125732, high: 3.1415927410125732, init_value: 0.9999999996434974
+[2022-03-20 20:50:45,042][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[2], low: -3.1415927410125732, high: 3.1415927410125732, init_value: -1.5350752508021475e-05
+[2022-03-20 20:50:45,062][pybulletX.gui.control_panel][INFO] - name: end_effector.orientation[3], low: -3.1415927410125732, high: 3.1415927410125732, init_value: -2.0871196422302177e-05
+[2022-03-20 20:50:45,067][pybulletX.gui.control_panel][INFO] - name: end_effector.position[0], low: 0.30000001192092896, high: 0.8500000238418579, init_value: 0.5000109182033144
+[2022-03-20 20:50:45,079][pybulletX.gui.control_panel][INFO] - name: end_effector.position[1], low: -0.8500000238418579, high: 0.8500000238418579, init_value: 6.405418380606345e-05
+[2022-03-20 20:50:45,084][pybulletX.gui.control_panel][INFO] - name: end_effector.position[2], low: 0.0, high: 0.800000011920929, init_value: 0.215150688153249
+[2022-03-20 20:50:45,090][pybulletX.gui.control_panel][INFO] - name: gripper_width, low: 0.029999999329447746, high: 0.10999999940395355, init_value: 0.11

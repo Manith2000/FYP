@@ -1,0 +1,10 @@
+[2022-03-20 19:41:54,324][tacto.renderer][INFO] - Loading configuration from: /home/manith/Documents/Latest_Tacto/tacto_venv/lib/python3.8/site-packages/tacto/config_digit.yml
+[2022-03-20 19:41:55,068][__main__][INFO] - Initializing world
+[2022-03-20 19:41:55,411][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2022-03-20 19:41:56,931][pybulletX.gui.control_panel][INFO] - name: base_140474266389808_x, low: -0.3, high: 0.3, init_value: 0.05
+[2022-03-20 19:41:56,935][pybulletX.gui.control_panel][INFO] - name: base_140474266389808_y, low: -0.3, high: 0.3, init_value: 0.0
+[2022-03-20 19:41:56,941][pybulletX.gui.control_panel][INFO] - name: base_140474266389808_z, low: 0, high: 0.3, init_value: 0.235
+[2022-03-20 19:41:56,942][pybulletX.gui.control_panel][INFO] - name: base_140474266389808_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2022-03-20 19:41:56,978][pybulletX.gui.control_panel][INFO] - name: base_140474266389808_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2022-03-20 19:41:56,980][pybulletX.gui.control_panel][INFO] - name: base_140474266389808_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2022-03-20 19:41:57,020][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT

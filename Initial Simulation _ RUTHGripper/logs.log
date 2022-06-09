@@ -1,0 +1,6 @@
+INFO:root:Initializing world
+INFO:tacto.renderer:Loading configuration from: /home/manith/Documents/Latest_Tacto/tacto_venv/lib/python3.8/site-packages/tacto/config_digit.yml
+DEBUG:trimesh:generating face normals
+INFO:root:Initializing world
+INFO:tacto.renderer:Loading configuration from: /home/manith/Documents/Latest_Tacto/tacto_venv/lib/python3.8/site-packages/tacto/config_digit.yml
+DEBUG:trimesh:generating face normals
